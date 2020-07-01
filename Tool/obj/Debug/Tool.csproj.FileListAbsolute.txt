@@ -1,0 +1,11 @@
+G:\unity项目\tower\Code\Tool\bin\Debug\Tool.dll
+G:\unity项目\tower\Code\Tool\bin\Debug\Tool.pdb
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.CoreModule.dll
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.UI.dll
+G:\unity项目\tower\Code\Tool\obj\Debug\Tool.dll
+G:\unity项目\tower\Code\Tool\obj\Debug\Tool.pdb
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.AudioModule.dll
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.AnimationModule.dll
+G:\unity项目\tower\Code\Tool\obj\Debug\Tool.csprojResolveAssemblyReference.cache
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.dll
+G:\unity项目\tower\Code\Tool\bin\Debug\UnityEngine.PhysicsModule.dll
